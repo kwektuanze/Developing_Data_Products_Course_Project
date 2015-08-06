@@ -1,7 +1,7 @@
 shinyUI(fluidPage(
   headerPanel("Twitter - Sentiment Analysis"),
   
-  #Inputs
+  #Inputs 
   sidebarPanel(
     wellPanel(
       #Input word 1 and word 2 for analysis
